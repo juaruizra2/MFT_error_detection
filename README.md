@@ -22,3 +22,7 @@ Archivo comprimido que contiene el dataset original: "01_data_initial.csv": conj
 
 - "02_data_prepared.csv": Resultado de la preparación de los datos realizada en el notebook anterior.
 Este archivo contiene los datos limpios y estructurados, listos para ser utilizados en etapas posteriores del proyecto.
+
+- "02_MFT_data_split.ipynb": Notebook de Jupyter que realiza la agrupación de los datos en serie de tiempo de 5 minutos.
+- "03_MFT_LSTM.ipynb":  Notebook de Jupyter que realiza el entrenamiento del autoencoder LSTM
+- "04_MFT_LSTM_Graficos.ipynb":  Notebook de Jupyter que realiza la selección de los mejores modelos de entredamiento del autoencoder LSTM y realiza sus graficas respectivamente
